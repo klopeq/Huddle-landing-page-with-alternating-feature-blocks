@@ -300,6 +300,9 @@ footer .container .final-content{
     
 
     @media (max-width: 500px) {
+        header {
+            background: url(images/bg-hero-mobile.svg);
+        }
         #grow,
         #flowing,
         #users,
@@ -309,8 +312,8 @@ footer .container .final-content{
 
         .flex-box .header-img img {
             margin-left: 0;
-            width: 250px;
-            height: 190px;
+            width: 280px;
+            height: 210px;
         }
 
         nav a {
